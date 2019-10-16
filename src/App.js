@@ -3,12 +3,18 @@ import './App.css';
 import Header from './Header';
 import Main  from './Main';
 import Skills from './Skills';
+import Skill from './Skill';
 import Projects from './Projects';
 import Slogan from './Slogan';
 import Contacts from './Contacts';
 import Footer from './Footer';
-import Skill from './Skill';
 import BlockTitle from './BlockTitle';
+import NavMenu from './NavMenu';
+
+
+
+
+
 
 
 
@@ -22,14 +28,12 @@ function App() {
         <Projects />
         <Slogan />
         <Contacts />
+        <Skill />>
+        <BlockTitle />
+        <NavMenu />
         <Footer />
-        <Skill />
-        <BlockTitle/>
+
       </div>
-      <div></div>
-
-
-
 
 
     </div>
