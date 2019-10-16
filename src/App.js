@@ -25,9 +25,11 @@ function App() {
         <Footer />
         <Skill />
         <BlockTitle/>
-
       </div>
       <div></div>
+
+
+
 
 
     </div>
