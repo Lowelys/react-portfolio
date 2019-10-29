@@ -21,7 +21,7 @@ function Projects() {
           <div className={styles.projectImg}>
             <a className={styles.btnShow} href=''>Смотреть</a>
           </div>
-          <span className={styles.projectTitle}>Socia network</span>
+          <span className={styles.projectTitle}>Social network</span>
           <span className={styles.description}>Lorem ipsum dolor sit amet, consectetur ipsum dolor nesciunt soluta adipisicing elit. Quia, veritatis.</span>
         </div>
 

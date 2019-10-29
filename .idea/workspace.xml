@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
+    <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="add new file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/calculator.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/calculator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/html-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/js-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/oh10UKXTIHE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/react-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social-network-e5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social-network.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social-network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social-network2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social_timeline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sport-social-network.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/telegram2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/todolist.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlockTitle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTitle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skill.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +103,10 @@
       <workItem from="1571251870282" duration="35000" />
       <workItem from="1571251935642" duration="2671000" />
       <workItem from="1571337615797" duration="2490000" />
+      <workItem from="1571851303916" duration="2839000" />
+      <workItem from="1571938978110" duration="4391000" />
+      <workItem from="1572371779627" duration="516000" />
+      <workItem from="1572372351220" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>
@@ -103,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571339205960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add new file">
+      <created>1571851424387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571851424387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
