@@ -1,0 +1,43 @@
+.project {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+}
+
+.projectImg {
+    height: 300px;
+    /*background-color: #ededed;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.projectImg:before {
+    content:  "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 300px;
+    background-color: #1F1F20;
+    opacity: 0.4;
+}
+
+.btnShow {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Sans' , sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    padding: 0;
+}

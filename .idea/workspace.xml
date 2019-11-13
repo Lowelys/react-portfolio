@@ -1,37 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="add new file">
+    <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/calculator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/html-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/js-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/oh10UKXTIHE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/react-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social-network-e5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social-network.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social-network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social-network2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/social_timeline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sport-social-network.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/telegram2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/todolist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/vk.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/calculator.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/calculator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/html-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/js-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/oh10UKXTIHE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/react-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/social-network-e5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/social-network.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/social-network.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/social-network2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/social_timeline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sport-social-network.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/telegram2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/todolist.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlockTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTitle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BlockTitle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTitle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skill.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +72,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -52,6 +81,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,7 +136,17 @@
       <workItem from="1571851303916" duration="2839000" />
       <workItem from="1571938978110" duration="4391000" />
       <workItem from="1572371779627" duration="516000" />
-      <workItem from="1572372351220" duration="932000" />
+      <workItem from="1572372351220" duration="7861000" />
+      <workItem from="1572459827015" duration="4827000" />
+      <workItem from="1572544074091" duration="6035000" />
+      <workItem from="1573130503327" duration="18412000" />
+      <workItem from="1573196607286" duration="9054000" />
+      <workItem from="1573545227271" duration="1307000" />
+      <workItem from="1573549882273" duration="100000" />
+      <workItem from="1573550227796" duration="9837000" />
+      <workItem from="1573629622001" duration="916000" />
+      <workItem from="1573630835819" duration="129000" />
+      <workItem from="1573632127665" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>
@@ -136,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571851424387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new file">
+      <created>1572373309627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572373309627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

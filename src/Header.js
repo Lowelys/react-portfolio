@@ -3,14 +3,14 @@ import styles from './Header.module.css';
 import NavMenu from './NavMenu';
 
 function Header() {
-  return (
-    <div className={styles.header}>
-      <div className={styles.container}>
-        <NavMenu />
-      </div>
+    return (
+        <div className={styles.header}>
+            <div className={styles.container}>
+                <NavMenu/>
+            </div>
 
-    </div>
-  );
+        </div>
+    );
 }
 
 export default Header;
