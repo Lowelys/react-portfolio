@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlockTitle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTitle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavMenu.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +111,9 @@
       <workItem from="1573629622001" duration="916000" />
       <workItem from="1573630835819" duration="129000" />
       <workItem from="1573632127665" duration="1696000" />
+      <workItem from="1573634178593" duration="6166000" />
+      <workItem from="1573648550879" duration="59000" />
+      <workItem from="1574182662852" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>
@@ -154,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573632674345</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add new file">
+      <created>1573634391390</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573634391390</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -35,7 +35,7 @@
 }
 .formArea:focus, .messageArea:focus {
     border: 1px solid transparent;
-    transition: 0.7s;
+    transition: all 0.4s ease-in-out 0s;
 }
 
 .messageArea {
