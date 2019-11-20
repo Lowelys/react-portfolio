@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './Projects.module.css';
-import BlockTitle from './BlockTitle';
-import Project from "./Project";
-import todolistBgImg from './assets/img/todolist.jpg';
-import socialnetworkBgImg from './assets/img/social-network.jpg';
-import calculatorBgImg from './assets/img/calculator.jpg';
+import BlockTitle from '../Skills/BlockTitle/BlockTitle';
+import Project from "./Project/Project";
+import todolistBgImg from '../assets/img/todolist.jpg';
+import socialnetworkBgImg from '../assets/img/social-network.jpg';
+import calculatorBgImg from '../assets/img/calculator.jpg';
 import Fade from 'react-reveal/Fade';
 
 function Projects() {

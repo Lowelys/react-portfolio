@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './Footer.module.css';
-import BlockTitle from "./BlockTitle";
-import telegramIcon from './assets/img/telegram2.svg';
-import facebookIcon from './assets/img/facebook.svg';
-import linkedinIcon from './assets/img/linkedin.svg';
-import vkIcon from './assets/img/vk.svg';
+import BlockTitle from "../Skills/BlockTitle/BlockTitle";
+import telegramIcon from '../assets/img/telegram2.svg';
+import facebookIcon from '../assets/img/facebook.svg';
+import linkedinIcon from '../assets/img/linkedin.svg';
+import vkIcon from '../assets/img/vk.svg';
 import Fade from 'react-reveal/Fade';
 
 function Footer() {

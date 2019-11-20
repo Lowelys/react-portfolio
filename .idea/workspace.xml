@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/img/myfoto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavMenu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlockTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/BlockTitle/BlockTitle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlockTitle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/BlockTitle/BlockTitle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu/NavMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu/NavMenu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project/Project.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/oh10UKXTIHE.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +64,15 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\react-portfolio\src\Projects\Project" />
+      <recent name="D:\WebstormProjects\react-portfolio\src\Projects" />
+      <recent name="D:\WebstormProjects\react-portfolio\src\Skills\Skill" />
+      <recent name="D:\WebstormProjects\react-portfolio\src\Skills" />
+      <recent name="D:\WebstormProjects\react-portfolio\src\Skills\BlockTitle" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,6 +142,8 @@
       <workItem from="1573648550879" duration="59000" />
       <workItem from="1574182662852" duration="71000" />
       <workItem from="1574182855961" duration="831000" />
+      <workItem from="1574231367065" duration="188000" />
+      <workItem from="1574241373725" duration="1984000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>

@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Slogan.module.css';
-import BlockTitle from "./BlockTitle";
+import BlockTitle from "../Skills/BlockTitle/BlockTitle";
 import Fade from 'react-reveal/Fade';
 
 function Slogan() {

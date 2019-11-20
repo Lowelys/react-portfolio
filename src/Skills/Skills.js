@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './Skills.module.css';
-import BlockTitle from './BlockTitle';
-import Skill from './Skill';
-import reactIcon from './assets/img/react-icon.svg';
-import jsIcon from './assets/img/js-icon.svg';
-import htmlIcon from './assets/img/html-icon.svg';
+import BlockTitle from './BlockTitle/BlockTitle';
+import Skill from './Skill/Skill';
+import reactIcon from '../assets/img/react-icon.svg';
+import jsIcon from '../assets/img/js-icon.svg';
+import htmlIcon from '../assets/img/html-icon.svg';
 import Fade from 'react-reveal/Fade';
 
 
