@@ -25,11 +25,17 @@ const Experience = (props) => {
                         <div>• наполнение интернет-магазина товаром</div>
                         <div>• разработка новых направлений(сайтов)</div>
                     </div>
-                    <div className={style.incubator}>
+                    <div className={style.kursy}>
                         <div className={style.title}>Курсы</div>
                         <div>06.2019 - по настоящее время</div>
                         <div>it-incubator</div>
                         <div>React developer</div>
+                          <div> <br/>06.2018 - 07.2018</div>
+                          <div>SkillUp Minsk</div>
+                          <div>Тестирование ПО</div>
+                        <div><br/>07.2017 - 09.2017</div>
+                        <div>Seo-kursy</div>
+                        <div>HTML, CSS + SEO + Google Ads, Yandex direct</div>
                     </div>
                 </div>
             </Fade>

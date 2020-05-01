@@ -2,92 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/[Originals]/link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/contacts/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/contacts/gmail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/contacts/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/contacts/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/contacts/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/counter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/portfolio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/social-network.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/social-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/tournament-table.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/[Originals]/nodejs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/bootstrap-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/css-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/git-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/html-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/js-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/nodejs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/react-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/redux-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/sass-icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/skills/social-network.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/temp-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/to-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience/Experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience/Experience.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Nav/Nav.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Info/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Info/Info.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/PageTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/PageTitle.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/[Originals]/social-network.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/NavMenu/NavMenu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/NavMenu/NavMenu.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Project/Project.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Project/Project.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/BlockTitle/BlockTitle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/BlockTitle/BlockTitle.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skill/Skill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skill/Skill.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/calculator.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/calculator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/html-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/js-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/myfoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/react-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/social-network-e5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/social-network.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/social-network.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/social-network2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/social_timeline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/sport-social-network.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/telegram2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/todolist.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/vk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/portfolio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/projects/portfolio.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/social-network.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/projects/social-network.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/social-network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience/Experience.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/Experience.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Info/Info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Info/Info.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +128,8 @@
       <workItem from="1588333122941" duration="563000" />
       <workItem from="1588333704540" duration="118000" />
       <workItem from="1588333857540" duration="1355000" />
+      <workItem from="1588335247296" duration="3254000" />
+      <workItem from="1588340444453" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>
@@ -270,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574183114830</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new portfolio">
+      <created>1588335310726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588335310726</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +237,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add new file" />
     <MESSAGE value="add yarn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add yarn" />
+    <MESSAGE value="new portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="new portfolio" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -318,29 +250,37 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="370" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588333817664" />
+    <state x="147" y="91" key="CommitChangelistDialog2" timestamp="1588335308533">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="147" y="91" key="CommitChangelistDialog2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335308533" />
     <state x="274" y="275" key="EditFileWatcherDialog" timestamp="1588333795439">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="274" y="275" key="EditFileWatcherDialog/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588333795439" />
-    <state width="1259" height="267" key="GridCell.Tab.0.bottom" timestamp="1588335224312">
+    <state width="1259" height="267" key="GridCell.Tab.0.bottom" timestamp="1588341464457">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335224312" />
-    <state width="1259" height="267" key="GridCell.Tab.0.center" timestamp="1588335224312">
+    <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
+    <state width="1259" height="267" key="GridCell.Tab.0.center" timestamp="1588341464457">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335224312" />
-    <state width="1259" height="267" key="GridCell.Tab.0.left" timestamp="1588335224312">
+    <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
+    <state width="1259" height="267" key="GridCell.Tab.0.left" timestamp="1588341464456">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851822" />
-    <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335224312" />
-    <state width="1259" height="267" key="GridCell.Tab.0.right" timestamp="1588335224312">
+    <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464456" />
+    <state width="1259" height="267" key="GridCell.Tab.0.right" timestamp="1588341464457">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335224312" />
+    <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1588335319222">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335319222" />
   </component>
 </project>
