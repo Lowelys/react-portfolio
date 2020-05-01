@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ce8dd-dd80-4ff7-9eaf-43bcd2eccafc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/projects/[Originals]/social-network.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/portfolio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/projects/portfolio.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/social-network.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/projects/social-network.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/projects/social-network.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Experience/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/Experience.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Experience/Experience.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/Experience.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Info/Info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Info/Info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +63,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -78,6 +83,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -129,7 +139,10 @@
       <workItem from="1588333704540" duration="118000" />
       <workItem from="1588333857540" duration="1355000" />
       <workItem from="1588335247296" duration="3254000" />
-      <workItem from="1588340444453" duration="738000" />
+      <workItem from="1588340444453" duration="1323000" />
+      <workItem from="1588342083652" duration="402000" />
+      <workItem from="1588342501848" duration="521000" />
+      <workItem from="1588343054464" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1571254096260</created>
@@ -201,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588335310726</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="upgrade new portfolio">
+      <created>1588341493252</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588341493252</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +258,8 @@
     <MESSAGE value="add new file" />
     <MESSAGE value="add yarn" />
     <MESSAGE value="new portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="new portfolio" />
+    <MESSAGE value="upgrade new portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgrade new portfolio" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -250,37 +271,37 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="370" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588333817664" />
-    <state x="147" y="91" key="CommitChangelistDialog2" timestamp="1588335308533">
+    <state x="147" y="91" key="CommitChangelistDialog2" timestamp="1588341491263">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="147" y="91" key="CommitChangelistDialog2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335308533" />
+    <state x="147" y="91" key="CommitChangelistDialog2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341491263" />
     <state x="274" y="275" key="EditFileWatcherDialog" timestamp="1588333795439">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="274" y="275" key="EditFileWatcherDialog/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588333795439" />
-    <state width="1259" height="267" key="GridCell.Tab.0.bottom" timestamp="1588341464457">
+    <state width="1259" height="267" key="GridCell.Tab.0.bottom" timestamp="1588343146027">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
-    <state width="1259" height="267" key="GridCell.Tab.0.center" timestamp="1588341464457">
+    <state width="1259" height="267" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588343146027" />
+    <state width="1259" height="267" key="GridCell.Tab.0.center" timestamp="1588343146026">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
-    <state width="1259" height="267" key="GridCell.Tab.0.left" timestamp="1588341464456">
+    <state width="1259" height="267" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588343146026" />
+    <state width="1259" height="267" key="GridCell.Tab.0.left" timestamp="1588343146026">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851822" />
-    <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464456" />
-    <state width="1259" height="267" key="GridCell.Tab.0.right" timestamp="1588341464457">
+    <state width="1259" height="267" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588343146026" />
+    <state width="1259" height="267" key="GridCell.Tab.0.right" timestamp="1588343146026">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@-1280.0.1280.994" timestamp="1588328851823" />
-    <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341464457" />
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1588335319222">
+    <state width="1259" height="267" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588343146026" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1588341496458">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588335319222" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2/-1280.0.1280.994/0.0.1280.994@0.0.1280.994" timestamp="1588341496458" />
   </component>
 </project>
