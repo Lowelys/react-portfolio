@@ -2,76 +2,80 @@
 @import '../../css/variables.scss';
 
 .infoContainer {
-    position: relative;
-    
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-    min-height: 100vh;
-
-    background-color: $primaryBackgroundColor;
+  //position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 90vh;
+  background-color: $primaryBackgroundColor;
 }
 
 .greeting {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.8em;
 
-    font-size: 1.8em;
-
-    h1 {
-        font-size: 1.4em;
-        font-weight: normal;
-
-        margin: 0;
-    }
+  h1 {
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0;
+  }
 }
 
+
 .name {
-    position: relative;
-    z-index: 0;
+  position: relative;
+  z-index: 0;
 
-    &:before {
-        content: '';
-        position: absolute;
-        z-index: -1;
-        bottom: 9px;
+  &:before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    bottom: 9px;
 
-        width: 100%;
-        height: 6px;
+    width: 100%;
+    height: 6px;
 
-        background-color: $effectsColor;
-    }
+    background-color: $effectsColor;
+  }
+}
+
+.offer {
+  position: absolute;
+  bottom: 9px;
+  width: 60%;
+  padding-bottom: 180px;
+    font-size: 0.7em;
 }
 
 .photo {
-    position: relative;
+  position: relative;
 
-    width: 250px;
-    height: 250px;
+  width: 250px;
+  height: 250px;
 
-    border: 10px solid #fff;
-    border-radius: 50%;
+  border: 10px solid #fff;
+  border-radius: 50%;
 
-    transition: 1s;
+  transition: 1s;
 
-    img {
-        position: absolute;
-        top: -25%;
-        left: -10%;
+  img {
+    position: absolute;
+    top: -25%;
+    left: -10%;
 
-        width: 130%;
-        height: 130%;
-    }
+    width: 130%;
+    height: 130%;
+  }
 
-    &:hover {
-        border-color: $effectsColor;
-    }
+  &:hover {
+    border-color: $effectsColor;
+  }
 }
 
 @media screen and (max-width: 1000px) {
-    .infoContainer {
-        flex-direction: column;
-        justify-content: center;
-    }
+  .infoContainer {
+    flex-direction: column;
+    justify-content: center;
+  }
 }

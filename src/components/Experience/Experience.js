@@ -14,6 +14,8 @@ const Experience = (props) => {
                         <div>09.2001 - 07.2006</div>
                         <div>Самарская ГСХА</div>
                         <div>Инженер</div>
+                        <div><br/>Мой English</div>
+                        <div>A2 pre-intermediate</div>
                     </div>
                     <div className={style.job}>
                         <div className={style.title}>Работа</div>
@@ -23,7 +25,7 @@ const Experience = (props) => {
                         <div>SEO</div>
                         <div>• администрирование интернет магазина</div>
                         <div>• наполнение интернет-магазина товаром</div>
-                        <div>• разработка новых направлений(сайтов)</div>
+                        <div>• разработка новых проектов(WebSite)</div>
                     </div>
                     <div className={style.kursy}>
                         <div className={style.title}>Курсы</div>
