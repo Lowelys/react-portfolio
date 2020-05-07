@@ -3,15 +3,15 @@ import style from './Projects.module.scss';
 import Fade from 'react-reveal/Fade';
 import PageTitle from '../common/PageTitle';
 import linkIcon from '../../assets/img/temp-icon.png';
-import tournamentTable from './../../assets/img/projects/tournament-table.jpg';
+import weatherApp from './../../assets/img/projects/weather.jpg';
 import portfolio from './../../assets/img/projects/portfolio.jpg';
 import counter from './../../assets/img/projects/counter.jpg';
 import socialNetwork from './../../assets/img/projects/social-network.jpg';
 
 const Projects = () => {
     let projects = [
-        {id: 1, picture: tournamentTable, title: 'Турнирная таблица', link: 'https://lowelys.github.io/tournament-table/',
-        description: 'Турнирная таблица'},
+        {id: 1, picture: weatherApp, title: 'Приложение погоды', link: 'https://lowelys.github.io/weather-app/',
+        description: 'Погода'},
         {id: 2, picture: portfolio, title: 'Портфолио', link: 'https://lowelys.github.io/react-porfolio/',
         description: 'Портфолио'},
         {id: 3, picture: counter, title: 'Счётчик', link: 'https://lowelys.github.io/counter/',
