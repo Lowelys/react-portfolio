@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a220d706b03ad6c1db6951d4dbeefd35",
+    "revision": "7dbdbe78ff211aafb0dbaa7296d2acf9",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "b0dd92590de7edcd2536",
-    "url": "/react-portfolio/static/css/main.07c08b02.chunk.css"
+    "revision": "fd42c9194544506ba174",
+    "url": "/react-portfolio/static/css/main.24f7c397.chunk.css"
   },
   {
-    "revision": "5ac3add2fbef3e4c1352",
-    "url": "/react-portfolio/static/js/2.01b38c46.chunk.js"
+    "revision": "520ee070224952fc74a8",
+    "url": "/react-portfolio/static/js/2.14261826.chunk.js"
   },
   {
-    "revision": "b0dd92590de7edcd2536",
-    "url": "/react-portfolio/static/js/main.349c3af9.chunk.js"
+    "revision": "21ced859ea2b2d6b856d461ad6c2afed",
+    "url": "/react-portfolio/static/js/2.14261826.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08f5cadb00c2d4c9874d",
-    "url": "/react-portfolio/static/js/runtime~main.42537fbc.js"
+    "revision": "fd42c9194544506ba174",
+    "url": "/react-portfolio/static/js/main.7015173a.chunk.js"
+  },
+  {
+    "revision": "9cebcfe87e74c077e3cf",
+    "url": "/react-portfolio/static/js/runtime-main.d0dd671a.js"
   },
   {
     "revision": "471068b62dcb910e45d66ec084f5a6f4",
@@ -56,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/linkedin.a5998627.png"
   },
   {
-    "revision": "d4c8b48eef722b92fde136f114a68ef2",
-    "url": "/react-portfolio/static/media/nodejs.d4c8b48e.png"
+    "revision": "90ed3c7c786af97af1444cb047441828",
+    "url": "/react-portfolio/static/media/nodejs.90ed3c7c.png"
   },
   {
     "revision": "0273897ee1b5d2bd97b273ebb95595a5",
@@ -96,11 +100,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/to-top.afff4dff.png"
   },
   {
-    "revision": "1454ea4b1f7291aefc8878e1dfdafb52",
-    "url": "/react-portfolio/static/media/tournament-table.1454ea4b.jpg"
-  },
-  {
     "revision": "beb2a760c817b3e83b6a3e33fae01cbd",
     "url": "/react-portfolio/static/media/vk.beb2a760.png"
+  },
+  {
+    "revision": "76e3e64f4b751d2954e49b27aaf13025",
+    "url": "/react-portfolio/static/media/weather.76e3e64f.jpg"
   }
 ]);
