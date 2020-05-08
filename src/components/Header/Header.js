@@ -5,9 +5,9 @@ import Nav from './Nav/Nav';
 const Header = (props) => {
     return (
         <div className={style.header}>
-            <Nav />
+            <Nav/>
         </div>
     );
-}
+};
 
 export default Header;

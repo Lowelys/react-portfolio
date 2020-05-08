@@ -7,6 +7,7 @@ import weatherApp from './../../assets/img/projects/weather.jpg';
 import portfolio from './../../assets/img/projects/portfolio.jpg';
 import counter from './../../assets/img/projects/counter.jpg';
 import socialNetwork from './../../assets/img/projects/social-network.jpg';
+import fasadtut from './../../assets/img/projects/fasadtut.jpg';
 
 const Projects = () => {
     let projects = [
@@ -17,7 +18,9 @@ const Projects = () => {
         {id: 3, picture: counter, title: 'Счётчик', link: 'https://lowelys.github.io/counter/',
         description: 'Счётчик'},
         {id: 4, picture: socialNetwork, title: 'Социальная сеть', link: 'https://lowelys.github.io/socialnetwork/',
-        description: 'Социальная сеть'}
+        description: 'Социальная сеть'},
+        {id: 5, picture: fasadtut, title: 'Строительный магазин', link: 'https://lowelys.github.io/fasadtut/',
+            description: 'Прадажа стройматериалов'}
     ]
 
     const projectsElements = projects.map( project => {
