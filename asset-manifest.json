@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.619cb176.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.bb11e3a5.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.bb11e3a5.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.b8e254be.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.b8e254be.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d0dd671a.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d0dd671a.js.map",
     "static/js/2.8f1dcd4c.chunk.js": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js",
     "static/js/2.8f1dcd4c.chunk.js.map": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.8220fcc5b6638c5a73b7f9278c408452.js": "/react-portfolio/precache-manifest.8220fcc5b6638c5a73b7f9278c408452.js",
+    "precache-manifest.e525c0d301d5913c15927334bd0e5069.js": "/react-portfolio/precache-manifest.e525c0d301d5913c15927334bd0e5069.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.619cb176.chunk.css.map": "/react-portfolio/static/css/main.619cb176.chunk.css.map",
     "static/js/2.8f1dcd4c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icon.png": "/react-portfolio/static/media/bootstrap-icon.471068b6.png",
-    "static/media/counter.jpg": "/react-portfolio/static/media/counter.cfe38c5b.jpg",
+    "static/media/counter.jpg": "/react-portfolio/static/media/counter.77a89708.jpg",
     "static/media/css-icon.png": "/react-portfolio/static/media/css-icon.d99ab59a.png",
     "static/media/fasadtut.jpg": "/react-portfolio/static/media/fasadtut.ac1185e0.jpg",
     "static/media/git-icon.png": "/react-portfolio/static/media/git-icon.325d6e71.png",
@@ -24,7 +24,7 @@
     "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.a5998627.png",
     "static/media/nodejs.png": "/react-portfolio/static/media/nodejs.90ed3c7c.png",
     "static/media/photo1.png": "/react-portfolio/static/media/photo1.0273897e.png",
-    "static/media/portfolio.jpg": "/react-portfolio/static/media/portfolio.c3b9b403.jpg",
+    "static/media/portfolio.jpg": "/react-portfolio/static/media/portfolio.c1367272.jpg",
     "static/media/react-icon.png": "/react-portfolio/static/media/react-icon.83d6dc0f.png",
     "static/media/redux-icon.png": "/react-portfolio/static/media/redux-icon.f1da3603.png",
     "static/media/sass-icon2.png": "/react-portfolio/static/media/sass-icon2.7dad14cb.png",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.d0dd671a.js",
     "static/js/2.8f1dcd4c.chunk.js",
     "static/css/main.619cb176.chunk.css",
-    "static/js/main.bb11e3a5.chunk.js"
+    "static/js/main.b8e254be.chunk.js"
   ]
 }
