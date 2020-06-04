@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.619cb176.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a730fbfc.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a730fbfc.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.bb11e3a5.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.bb11e3a5.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d0dd671a.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d0dd671a.js.map",
-    "static/js/2.188db39c.chunk.js": "/react-portfolio/static/js/2.188db39c.chunk.js",
-    "static/js/2.188db39c.chunk.js.map": "/react-portfolio/static/js/2.188db39c.chunk.js.map",
+    "static/js/2.8f1dcd4c.chunk.js": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js",
+    "static/js/2.8f1dcd4c.chunk.js.map": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.9313009df8110b29226ee182e06aa621.js": "/react-portfolio/precache-manifest.9313009df8110b29226ee182e06aa621.js",
+    "precache-manifest.8220fcc5b6638c5a73b7f9278c408452.js": "/react-portfolio/precache-manifest.8220fcc5b6638c5a73b7f9278c408452.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.619cb176.chunk.css.map": "/react-portfolio/static/css/main.619cb176.chunk.css.map",
-    "static/js/2.188db39c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.188db39c.chunk.js.LICENSE.txt",
+    "static/js/2.8f1dcd4c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.8f1dcd4c.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icon.png": "/react-portfolio/static/media/bootstrap-icon.471068b6.png",
     "static/media/counter.jpg": "/react-portfolio/static/media/counter.cfe38c5b.jpg",
     "static/media/css-icon.png": "/react-portfolio/static/media/css-icon.d99ab59a.png",
@@ -32,13 +32,14 @@
     "static/media/telegram.png": "/react-portfolio/static/media/telegram.0fc6bb25.png",
     "static/media/temp-icon.png": "/react-portfolio/static/media/temp-icon.1d531333.png",
     "static/media/to-top.png": "/react-portfolio/static/media/to-top.afff4dff.png",
+    "static/media/ugolminsk.jpg": "/react-portfolio/static/media/ugolminsk.4505ee03.jpg",
     "static/media/vk.png": "/react-portfolio/static/media/vk.beb2a760.png",
     "static/media/weather.jpg": "/react-portfolio/static/media/weather.76e3e64f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0dd671a.js",
-    "static/js/2.188db39c.chunk.js",
+    "static/js/2.8f1dcd4c.chunk.js",
     "static/css/main.619cb176.chunk.css",
-    "static/js/main.a730fbfc.chunk.js"
+    "static/js/main.bb11e3a5.chunk.js"
   ]
 }
