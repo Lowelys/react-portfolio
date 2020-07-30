@@ -19,7 +19,7 @@ const Experience = (props) => {
                     </div>
                     <div className={style.job}>
                         <div className={style.title}>Работа</div>
-                        <div>02.2017 - по настоящее время</div>
+                        <div>02.2017 - 07.2020</div>
                         <div>ООО "Пеламин"</div>
                         <div>Менеджер <br />(контент-менеджер)</div>
                         <div>SEO</div>
